@@ -1,0 +1,15 @@
+{
+  "name": "mrh-account",
+  "version": "5.1.0",
+  "description": "MRH Account Finance App",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {
+    "@capacitor/android": "5.7.0",
+    "@capacitor/core": "5.7.0",
+    "@capacitor/cli": "5.7.0",
+    "@capacitor/splash-screen": "5.0.7"
+  }
+}
