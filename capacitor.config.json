@@ -1,0 +1,21 @@
+{
+  "appId": "com.mrhdaily.accounts",
+  "appName": "MRH ACCOUNT",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "minSdkVersion": 14,
+    "targetSdkVersion": 33,
+    "buildOptions": {
+      "keystorePath": null,
+      "keystoreAlias": null
+    }
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#E2136E",
+      "showSpinner": false
+    }
+  }
+}
